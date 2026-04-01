@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click reCaptcha button on the automation challenge website",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "SfKKXicHm0yoWLmwUyKuEQ",
+  "Reference": "87hwHuJfY0GrzDyBA41xjA/SfKKXicHm0yoWLmwUyKuEQ",
+  "ParentRef": "87hwHuJfY0GrzDyBA41xjA/FJNooIn0UUaI6N7ITAEf1w",
+  "Created": "2026-04-01T09:36:09.3974247Z",
+  "Updated": "2026-04-01T09:36:09.3974247Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
